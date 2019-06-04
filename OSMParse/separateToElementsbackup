@@ -1,0 +1,1819 @@
+bounds
+    minlat: 49.9347000
+    minlon: 29.6164000
+    maxlat: 49.9461000
+    maxlon: 29.6435000
+
+node
+    id: 337539850
+    lat: 49.9407620
+    lon: 29.6328700
+    version: 5
+    timestamp: 2017-02-10T15:06:15Z
+    changeset: 45974446
+    uid: 481934
+    user: iWowik
+    TAG tag
+        k: addr:postcode
+        v: 13534
+
+    TAG tag
+        k: koatuu
+        v: 1824785501
+
+    TAG tag
+        k: name
+        v: Почуйки
+
+    TAG tag
+        k: name:be
+        v: Пачуйкі
+
+    TAG tag
+        k: name:en
+        v: Pochuiky
+
+    TAG tag
+        k: name:prefix
+        v: село
+
+    TAG tag
+        k: name:ru
+        v: Почуйки
+
+    TAG tag
+        k: name:uk
+        v: Почуйки
+
+    TAG tag
+        k: place
+        v: village
+
+    TAG tag
+        k: population
+        v: 794
+
+    TAG tag
+        k: wikidata
+        v: Q4375443
+
+    TAG tag
+        k: wikipedia
+        v: uk:Почуйки
+
+    TAG tag
+        k: wikipedia:ru
+        v: Почуйки (Житомирская область)
+
+
+node
+    id: 2136178965
+    lat: 49.9329089
+    lon: 29.6412329
+    version: 3
+    timestamp: 2015-07-07T13:46:18Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174933
+    lat: 49.9341389
+    lon: 29.6394084
+    version: 2
+    timestamp: 2015-07-07T13:46:18Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174934
+    lat: 49.9349980
+    lon: 29.6379392
+    version: 2
+    timestamp: 2015-07-07T13:46:18Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174935
+    lat: 49.9355605
+    lon: 29.6365180
+    version: 2
+    timestamp: 2015-07-07T13:46:18Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174936
+    lat: 49.9359746
+    lon: 29.6359803
+    version: 2
+    timestamp: 2015-07-07T13:46:18Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174937
+    lat: 49.9363392
+    lon: 29.6356058
+    version: 2
+    timestamp: 2015-07-07T13:46:18Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174938
+    lat: 49.9370596
+    lon: 29.6352204
+    version: 1
+    timestamp: 2013-04-03T20:17:12Z
+    changeset: 15600197
+    uid: 630111
+    user: pzp-5
+
+node
+    id: 2247174939
+    lat: 49.9375135
+    lon: 29.6350969
+    version: 2
+    timestamp: 2015-07-07T13:46:18Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174940
+    lat: 49.9378040
+    lon: 29.6348952
+    version: 2
+    timestamp: 2015-07-07T13:46:18Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174941
+    lat: 49.9381934
+    lon: 29.6342614
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174942
+    lat: 49.9384158
+    lon: 29.6338965
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174943
+    lat: 49.9386878
+    lon: 29.6337525
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174944
+    lat: 49.9395221
+    lon: 29.6337525
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174945
+    lat: 49.9401648
+    lon: 29.6336469
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174946
+    lat: 49.9407334
+    lon: 29.6335316
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174947
+    lat: 49.9414008
+    lon: 29.6333588
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174948
+    lat: 49.9420326
+    lon: 29.6330182
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174949
+    lat: 49.9422860
+    lon: 29.6327109
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174950
+    lat: 49.9424652
+    lon: 29.6321252
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174951
+    lat: 49.9426630
+    lon: 29.6315298
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174952
+    lat: 49.9431450
+    lon: 29.6307616
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174953
+    lat: 49.9433736
+    lon: 29.6304159
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174954
+    lat: 49.9436764
+    lon: 29.6300222
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174955
+    lat: 49.9445848
+    lon: 29.6291292
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174956
+    lat: 49.9452646
+    lon: 29.6285722
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174957
+    lat: 49.9455550
+    lon: 29.6280729
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174958
+    lat: 49.9458331
+    lon: 29.6271510
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174959
+    lat: 49.9459629
+    lon: 29.6267957
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174960
+    lat: 49.9462656
+    lon: 29.6267477
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174961
+    lat: 49.9469701
+    lon: 29.6271126
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174962
+    lat: 49.9476930
+    lon: 29.6274679
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174963
+    lat: 49.9478908
+    lon: 29.6274871
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174964
+    lat: 49.9482862
+    lon: 29.6271990
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174965
+    lat: 49.9494293
+    lon: 29.6250001
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174966
+    lat: 49.9503438
+    lon: 29.6233292
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174967
+    lat: 49.9506342
+    lon: 29.6227050
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174968
+    lat: 49.9510297
+    lon: 29.6221193
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174969
+    lat: 49.9515178
+    lon: 29.6218888
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174970
+    lat: 49.9522098
+    lon: 29.6217256
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174976
+    lat: 49.9538903
+    lon: 29.6219560
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2247174983
+    lat: 49.9561041
+    lon: 29.6223510
+    version: 1
+    timestamp: 2013-04-03T20:17:14Z
+    changeset: 15600197
+    uid: 630111
+    user: pzp-5
+
+node
+    id: 2247174984
+    lat: 49.9575393
+    lon: 29.6227526
+    version: 1
+    timestamp: 2013-04-03T20:17:14Z
+    changeset: 15600197
+    uid: 630111
+    user: pzp-5
+
+node
+    id: 2247174985
+    lat: 49.9625037
+    lon: 29.6237172
+    version: 1
+    timestamp: 2013-04-03T20:17:14Z
+    changeset: 15600197
+    uid: 630111
+    user: pzp-5
+
+node
+    id: 2247174986
+    lat: 49.9660039
+    lon: 29.6243850
+    version: 1
+    timestamp: 2013-04-03T20:17:14Z
+    changeset: 15600197
+    uid: 630111
+    user: pzp-5
+
+node
+    id: 2247174987
+    lat: 49.9663003
+    lon: 29.6244955
+    version: 1
+    timestamp: 2013-04-03T20:17:14Z
+    changeset: 15600197
+    uid: 630111
+    user: pzp-5
+
+node
+    id: 2923637058
+    lat: 49.9414303
+    lon: 29.6822695
+    version: 1
+    timestamp: 2014-06-19T16:08:37Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637063
+    lat: 49.9412232
+    lon: 29.6761540
+    version: 1
+    timestamp: 2014-06-19T16:08:37Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637071
+    lat: 49.9414081
+    lon: 29.6806221
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2923637083
+    lat: 49.9485577
+    lon: 29.7137702
+    version: 2
+    timestamp: 2015-07-07T13:46:20Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2923637092
+    lat: 49.9429079
+    lon: 29.6894074
+    version: 1
+    timestamp: 2014-06-19T16:08:38Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637093
+    lat: 49.9415961
+    lon: 29.6351913
+    version: 1
+    timestamp: 2014-06-19T16:08:38Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637325
+    lat: 49.9415546
+    lon: 29.6371011
+    version: 1
+    timestamp: 2014-06-19T16:08:39Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637326
+    lat: 49.9414303
+    lon: 29.6827126
+    version: 1
+    timestamp: 2014-06-19T16:08:39Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637330
+    lat: 49.9401103
+    lon: 29.6524961
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2923637333
+    lat: 49.9476442
+    lon: 29.7099424
+    version: 1
+    timestamp: 2014-06-19T16:08:39Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637335
+    lat: 49.9404222
+    lon: 29.6607045
+    version: 1
+    timestamp: 2014-06-19T16:08:39Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637338
+    lat: 49.9484175
+    lon: 29.7132544
+    version: 1
+    timestamp: 2014-06-19T16:08:39Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637342
+    lat: 49.9415546
+    lon: 29.6834282
+    version: 1
+    timestamp: 2014-06-19T16:08:39Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637366
+    lat: 49.9466363
+    lon: 29.7057152
+    version: 1
+    timestamp: 2014-06-19T16:08:40Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637378
+    lat: 49.9414863
+    lon: 29.6831085
+    version: 1
+    timestamp: 2014-06-19T16:08:40Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637380
+    lat: 49.9406984
+    lon: 29.6663479
+    version: 1
+    timestamp: 2014-06-19T16:08:40Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637391
+    lat: 49.9400546
+    lon: 29.6537829
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2923637392
+    lat: 49.9416375
+    lon: 29.6357707
+    version: 1
+    timestamp: 2014-06-19T16:08:40Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637400
+    lat: 49.9410713
+    lon: 29.6729998
+    version: 1
+    timestamp: 2014-06-19T16:08:40Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637409
+    lat: 49.9411423
+    lon: 29.6414436
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2923637432
+    lat: 49.9407097
+    lon: 29.6459760
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2923637434
+    lat: 49.9414994
+    lon: 29.6342687
+    version: 1
+    timestamp: 2014-06-19T16:08:41Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637442
+    lat: 49.9413337
+    lon: 29.6788502
+    version: 1
+    timestamp: 2014-06-19T16:08:41Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637487
+    lat: 49.9400670
+    lon: 29.6531683
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2923637489
+    lat: 49.9443441
+    lon: 29.6956301
+    version: 1
+    timestamp: 2014-06-19T16:08:42Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637503
+    lat: 49.9402895
+    lon: 29.6504988
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 2923637505
+    lat: 49.9416375
+    lon: 29.6361784
+    version: 1
+    timestamp: 2014-06-19T16:08:42Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637527
+    lat: 49.9420932
+    lon: 29.6857885
+    version: 1
+    timestamp: 2014-06-19T16:08:43Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2923637531
+    lat: 49.9414303
+    lon: 29.6818403
+    version: 1
+    timestamp: 2014-06-19T16:08:43Z
+    changeset: 23027777
+    uid: 321862
+    user: DanX
+
+node
+    id: 2942432383
+    lat: 49.9486875
+    lon: 29.7140679
+    version: 2
+    timestamp: 2015-07-07T13:46:19Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 3639327944
+    lat: 49.9335331
+    lon: 29.6403591
+    version: 1
+    timestamp: 2015-07-07T13:46:17Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 3639327945
+    lat: 49.9481132
+    lon: 29.6274199
+    version: 1
+    timestamp: 2015-07-07T13:46:17Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 3639327946
+    lat: 49.9526917
+    lon: 29.6216872
+    version: 1
+    timestamp: 2015-07-07T13:46:17Z
+    changeset: 32472167
+    uid: 368942
+    user: KKS
+
+node
+    id: 4750976956
+    lat: 49.9384523
+    lon: 29.6353736
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976957
+    lat: 49.9389651
+    lon: 29.6364306
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976958
+    lat: 49.9384837
+    lon: 29.6329831
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976959
+    lat: 49.9394570
+    lon: 29.6295193
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976960
+    lat: 49.9389860
+    lon: 29.6290802
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976961
+    lat: 49.9385779
+    lon: 29.6288526
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976962
+    lat: 49.9383371
+    lon: 29.6278118
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976963
+    lat: 49.9382220
+    lon: 29.6273077
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976964
+    lat: 49.9380231
+    lon: 29.6269825
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976965
+    lat: 49.9401792
+    lon: 29.6297307
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976966
+    lat: 49.9407129
+    lon: 29.6300072
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976967
+    lat: 49.9415607
+    lon: 29.6301210
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976968
+    lat: 49.9423665
+    lon: 29.6301373
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976969
+    lat: 49.9436851
+    lon: 29.6306414
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976970
+    lat: 49.9439886
+    lon: 29.6320562
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976971
+    lat: 49.9442398
+    lon: 29.6326904
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976972
+    lat: 49.9448572
+    lon: 29.6318935
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976973
+    lat: 49.9450142
+    lon: 29.6314220
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976974
+    lat: 49.9452340
+    lon: 29.6303161
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976975
+    lat: 49.9454642
+    lon: 29.6289501
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976976
+    lat: 49.9439991
+    lon: 29.6336010
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976977
+    lat: 49.9440619
+    lon: 29.6349345
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976978
+    lat: 49.9445014
+    lon: 29.6364143
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976979
+    lat: 49.9446898
+    lon: 29.6373413
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 4750976980
+    lat: 49.9448781
+    lon: 29.6381056
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+
+node
+    id: 5329273549
+    lat: 49.9636189
+    lon: 29.6239300
+    version: 1
+    timestamp: 2018-01-09T11:49:08Z
+    changeset: 55290746
+    uid: 7446561
+    user: OstapH
+
+
+way
+    id: 215311394
+    version: 3
+    timestamp: 2015-10-29T14:43:11Z
+    changeset: 34950609
+    uid: 368942
+    user: KKS
+    TAG nd
+        ref: 2136178965
+
+    TAG nd
+        ref: 3639327944
+
+    TAG nd
+        ref: 2247174933
+
+    TAG nd
+        ref: 2247174934
+
+    TAG nd
+        ref: 2247174935
+
+    TAG nd
+        ref: 2247174936
+
+    TAG nd
+        ref: 2247174937
+
+    TAG nd
+        ref: 2247174938
+
+    TAG nd
+        ref: 2247174939
+
+    TAG nd
+        ref: 2247174940
+
+    TAG nd
+        ref: 2247174941
+
+    TAG nd
+        ref: 2247174942
+
+    TAG nd
+        ref: 2247174943
+
+    TAG nd
+        ref: 2247174944
+
+    TAG nd
+        ref: 2247174945
+
+    TAG nd
+        ref: 2247174946
+
+    TAG nd
+        ref: 2247174947
+
+    TAG tag
+        k: highway
+        v: tertiary
+
+    TAG tag
+        k: ref
+        v: О-061723
+
+    TAG tag
+        k: surface
+        v: asphalt
+
+
+way
+    id: 288809495
+    version: 5
+    timestamp: 2017-07-04T13:55:27Z
+    changeset: 50035470
+    uid: 5356838
+    user: Artem0724
+    TAG nd
+        ref: 2247174947
+
+    TAG nd
+        ref: 2923637434
+
+    TAG nd
+        ref: 2923637093
+
+    TAG nd
+        ref: 2923637392
+
+    TAG nd
+        ref: 2923637505
+
+    TAG nd
+        ref: 2923637325
+
+    TAG nd
+        ref: 2923637409
+
+    TAG nd
+        ref: 2923637432
+
+    TAG nd
+        ref: 2923637503
+
+    TAG nd
+        ref: 2923637330
+
+    TAG nd
+        ref: 2923637487
+
+    TAG nd
+        ref: 2923637391
+
+    TAG nd
+        ref: 2923637335
+
+    TAG nd
+        ref: 2923637380
+
+    TAG nd
+        ref: 2923637400
+
+    TAG nd
+        ref: 2923637063
+
+    TAG nd
+        ref: 2923637442
+
+    TAG nd
+        ref: 2923637071
+
+    TAG nd
+        ref: 2923637531
+
+    TAG nd
+        ref: 2923637058
+
+    TAG nd
+        ref: 2923637326
+
+    TAG nd
+        ref: 2923637378
+
+    TAG nd
+        ref: 2923637342
+
+    TAG nd
+        ref: 2923637527
+
+    TAG nd
+        ref: 2923637092
+
+    TAG nd
+        ref: 2923637489
+
+    TAG nd
+        ref: 2923637366
+
+    TAG nd
+        ref: 2923637333
+
+    TAG nd
+        ref: 2923637338
+
+    TAG nd
+        ref: 2923637083
+
+    TAG nd
+        ref: 2942432383
+
+    TAG tag
+        k: highway
+        v: tertiary
+
+    TAG tag
+        k: maxwidth
+        v: 2.49
+
+    TAG tag
+        k: ref
+        v: О-061723
+
+
+way
+    id: 359175340
+    version: 2
+    timestamp: 2018-01-09T11:49:20Z
+    changeset: 55290746
+    uid: 7446561
+    user: OstapH
+    TAG nd
+        ref: 2247174947
+
+    TAG nd
+        ref: 2247174948
+
+    TAG nd
+        ref: 2247174949
+
+    TAG nd
+        ref: 2247174950
+
+    TAG nd
+        ref: 2247174951
+
+    TAG nd
+        ref: 2247174952
+
+    TAG nd
+        ref: 2247174953
+
+    TAG nd
+        ref: 2247174954
+
+    TAG nd
+        ref: 2247174955
+
+    TAG nd
+        ref: 2247174956
+
+    TAG nd
+        ref: 2247174957
+
+    TAG nd
+        ref: 2247174958
+
+    TAG nd
+        ref: 2247174959
+
+    TAG nd
+        ref: 2247174960
+
+    TAG nd
+        ref: 2247174961
+
+    TAG nd
+        ref: 2247174962
+
+    TAG nd
+        ref: 2247174963
+
+    TAG nd
+        ref: 3639327945
+
+    TAG nd
+        ref: 2247174964
+
+    TAG nd
+        ref: 2247174965
+
+    TAG nd
+        ref: 2247174966
+
+    TAG nd
+        ref: 2247174967
+
+    TAG nd
+        ref: 2247174968
+
+    TAG nd
+        ref: 2247174969
+
+    TAG nd
+        ref: 2247174970
+
+    TAG nd
+        ref: 3639327946
+
+    TAG nd
+        ref: 2247174976
+
+    TAG nd
+        ref: 2247174983
+
+    TAG nd
+        ref: 2247174984
+
+    TAG nd
+        ref: 2247174985
+
+    TAG nd
+        ref: 5329273549
+
+    TAG nd
+        ref: 2247174986
+
+    TAG nd
+        ref: 2247174987
+
+    TAG tag
+        k: highway
+        v: unclassified
+
+    TAG tag
+        k: surface
+        v: asphalt
+
+
+way
+    id: 482254610
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+    TAG nd
+        ref: 2247174943
+
+    TAG nd
+        ref: 4750976956
+
+    TAG nd
+        ref: 4750976957
+
+    TAG tag
+        k: highway
+        v: unclassified
+
+
+way
+    id: 482254611
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+    TAG nd
+        ref: 2247174943
+
+    TAG nd
+        ref: 4750976958
+
+    TAG nd
+        ref: 4750976959
+
+    TAG nd
+        ref: 4750976960
+
+    TAG nd
+        ref: 4750976961
+
+    TAG nd
+        ref: 4750976962
+
+    TAG nd
+        ref: 4750976963
+
+    TAG nd
+        ref: 4750976964
+
+    TAG tag
+        k: highway
+        v: unclassified
+
+
+way
+    id: 482254612
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+    TAG nd
+        ref: 4750976959
+
+    TAG nd
+        ref: 4750976965
+
+    TAG nd
+        ref: 4750976966
+
+    TAG nd
+        ref: 4750976967
+
+    TAG nd
+        ref: 4750976968
+
+    TAG tag
+        k: highway
+        v: unclassified
+
+
+way
+    id: 482254613
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+    TAG nd
+        ref: 2247174953
+
+    TAG nd
+        ref: 4750976969
+
+    TAG nd
+        ref: 4750976970
+
+    TAG nd
+        ref: 4750976971
+
+    TAG nd
+        ref: 4750976972
+
+    TAG nd
+        ref: 4750976973
+
+    TAG nd
+        ref: 4750976974
+
+    TAG nd
+        ref: 4750976975
+
+    TAG nd
+        ref: 2247174957
+
+    TAG tag
+        k: highway
+        v: unclassified
+
+
+way
+    id: 482254614
+    version: 1
+    timestamp: 2017-03-23T14:30:08Z
+    changeset: 47098472
+    uid: 3737969
+    user: medvedyk
+    TAG nd
+        ref: 4750976971
+
+    TAG nd
+        ref: 4750976976
+
+    TAG nd
+        ref: 4750976977
+
+    TAG nd
+        ref: 4750976978
+
+    TAG nd
+        ref: 4750976979
+
+    TAG nd
+        ref: 4750976980
+
+    TAG tag
+        k: highway
+        v: unclassified
+
+
+
+relation
+    id: 5344080
+    version: 14
+    timestamp: 2017-08-09T17:43:11Z
+    changeset: 50979789
+    uid: 6110846
+    user: Poliakoff Mykhailo
+    TAG member
+        type: relation
+        ref: 5345132
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5345232
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5345270
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5345298
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5345354
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5344037
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5345468
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5345433
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5346467
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5346608
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5346734
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5346809
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5341948
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5341925
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5350635
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5341923
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5341886
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5341877
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5341849
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5341719
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5341775
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5344716
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5344498
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5344621
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5344686
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5350831
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5351327
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5351465
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5351699
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5351798
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5351883
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5354964
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5355771
+        role: 
+
+    TAG member
+        type: relation
+        ref: 5355887
+        role: 
+
+    TAG tag
+        k: name
+        v: Обласні автомобільні дороги місцевого значення Житомирської області
+
+    TAG tag
+        k: name:uk
+        v: Обласні автомобільні дороги місцевого значення Житомирської області
+
+    TAG tag
+        k: type
+        v: network
+
+
+relation
+    id: 5344716
+    version: 4
+    timestamp: 2017-07-04T13:55:27Z
+    changeset: 50035470
+    uid: 5356838
+    user: Artem0724
+    TAG member
+        type: way
+        ref: 203610317
+        role: 
+
+    TAG member
+        type: way
+        ref: 215311394
+        role: 
+
+    TAG member
+        type: way
+        ref: 288809495
+        role: 
+
+    TAG member
+        type: way
+        ref: 505067555
+        role: 
+
+    TAG member
+        type: way
+        ref: 288809497
+        role: 
+
+    TAG member
+        type: way
+        ref: 288809498
+        role: 
+
+    TAG member
+        type: way
+        ref: 359175566
+        role: 
+
+    TAG tag
+        k: description
+        v: Парипси - Ставище, через Саверці та Почуйки
+
+    TAG tag
+        k: distance
+        v: 21.1
+
+    TAG tag
+        k: name
+        v: Автошлях О-061723
+
+    TAG tag
+        k: ref
+        v: О-061723
+
+    TAG tag
+        k: route
+        v: road
+
+    TAG tag
+        k: type
+        v: route
+
+

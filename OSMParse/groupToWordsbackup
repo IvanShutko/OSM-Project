@@ -1,0 +1,8886 @@
+opentag <
+question ?
+word xml
+space  
+word version
+equals =
+quote "
+word 1.0
+quote "
+space  
+word encoding
+equals =
+quote "
+word UTF-8
+quote "
+question ?
+closetag >
+
+opentag <
+word osm
+space  
+word version
+equals =
+quote "
+word 0.6
+quote "
+space  
+word generator
+equals =
+quote "
+word Overpass
+space  
+word API
+space  
+word 0.7.55.7
+space  
+word 8b86ff77
+quote "
+closetag >
+
+opentag <
+word note
+closetag >
+
+opentag <
+slash /
+word note
+closetag >
+
+opentag <
+word meta
+space  
+word osm_base
+equals =
+quote "
+word 2019-05-11T12:31:02Z
+quote "
+slash /
+closetag >
+
+opentag <
+word bounds
+space  
+word minlat
+equals =
+quote "
+word 49.9347000
+quote "
+space  
+word minlon
+equals =
+quote "
+word 29.6164000
+quote "
+space  
+word maxlat
+equals =
+quote "
+word 49.9461000
+quote "
+space  
+word maxlon
+equals =
+quote "
+word 29.6435000
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 337539850
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9407620
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6328700
+quote "
+space  
+word version
+equals =
+quote "
+word 5
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-02-10T15:06:15Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 45974446
+quote "
+space  
+word uid
+equals =
+quote "
+word 481934
+quote "
+space  
+word user
+equals =
+quote "
+word iWowik
+quote "
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word addr:postcode
+quote "
+space  
+word v
+equals =
+quote "
+word 13534
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word koatuu
+quote "
+space  
+word v
+equals =
+quote "
+word 1824785501
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word name
+quote "
+space  
+word v
+equals =
+quote "
+word Почуйки
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word name:be
+quote "
+space  
+word v
+equals =
+quote "
+word Пачуйкі
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word name:en
+quote "
+space  
+word v
+equals =
+quote "
+word Pochuiky
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word name:prefix
+quote "
+space  
+word v
+equals =
+quote "
+word село
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word name:ru
+quote "
+space  
+word v
+equals =
+quote "
+word Почуйки
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word name:uk
+quote "
+space  
+word v
+equals =
+quote "
+word Почуйки
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word place
+quote "
+space  
+word v
+equals =
+quote "
+word village
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word population
+quote "
+space  
+word v
+equals =
+quote "
+word 794
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word wikidata
+quote "
+space  
+word v
+equals =
+quote "
+word Q4375443
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word wikipedia
+quote "
+space  
+word v
+equals =
+quote "
+word uk:Почуйки
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word wikipedia:ru
+quote "
+space  
+word v
+equals =
+quote "
+word Почуйки
+space  
+word (Житомирская
+space  
+word область)
+quote "
+slash /
+closetag >
+
+opentag <
+slash /
+word node
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2136178965
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9329089
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6412329
+quote "
+space  
+word version
+equals =
+quote "
+word 3
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:18Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174933
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9341389
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6394084
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:18Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174934
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9349980
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6379392
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:18Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174935
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9355605
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6365180
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:18Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174936
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9359746
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6359803
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:18Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174937
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9363392
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6356058
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:18Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174938
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9370596
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6352204
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2013-04-03T20:17:12Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 15600197
+quote "
+space  
+word uid
+equals =
+quote "
+word 630111
+quote "
+space  
+word user
+equals =
+quote "
+word pzp-5
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174939
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9375135
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6350969
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:18Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174940
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9378040
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6348952
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:18Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174941
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9381934
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6342614
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174942
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9384158
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6338965
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174943
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9386878
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6337525
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174944
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9395221
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6337525
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174945
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9401648
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6336469
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174946
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9407334
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6335316
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174947
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9414008
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6333588
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174948
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9420326
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6330182
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174949
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9422860
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6327109
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174950
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9424652
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6321252
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174951
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9426630
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6315298
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174952
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9431450
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6307616
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174953
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9433736
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6304159
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174954
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9436764
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6300222
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174955
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9445848
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6291292
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174956
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9452646
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6285722
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174957
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9455550
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6280729
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174958
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9458331
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6271510
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174959
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9459629
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6267957
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174960
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9462656
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6267477
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174961
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9469701
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6271126
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174962
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9476930
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6274679
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174963
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9478908
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6274871
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174964
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9482862
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6271990
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174965
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9494293
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6250001
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174966
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9503438
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6233292
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174967
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9506342
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6227050
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174968
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9510297
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6221193
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174969
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9515178
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6218888
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174970
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9522098
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6217256
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174976
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9538903
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6219560
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174983
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9561041
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6223510
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2013-04-03T20:17:14Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 15600197
+quote "
+space  
+word uid
+equals =
+quote "
+word 630111
+quote "
+space  
+word user
+equals =
+quote "
+word pzp-5
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174984
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9575393
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6227526
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2013-04-03T20:17:14Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 15600197
+quote "
+space  
+word uid
+equals =
+quote "
+word 630111
+quote "
+space  
+word user
+equals =
+quote "
+word pzp-5
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174985
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9625037
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6237172
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2013-04-03T20:17:14Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 15600197
+quote "
+space  
+word uid
+equals =
+quote "
+word 630111
+quote "
+space  
+word user
+equals =
+quote "
+word pzp-5
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174986
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9660039
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6243850
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2013-04-03T20:17:14Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 15600197
+quote "
+space  
+word uid
+equals =
+quote "
+word 630111
+quote "
+space  
+word user
+equals =
+quote "
+word pzp-5
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2247174987
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9663003
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6244955
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2013-04-03T20:17:14Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 15600197
+quote "
+space  
+word uid
+equals =
+quote "
+word 630111
+quote "
+space  
+word user
+equals =
+quote "
+word pzp-5
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637058
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9414303
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6822695
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:37Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637063
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9412232
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6761540
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:37Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637071
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9414081
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6806221
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637083
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9485577
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.7137702
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:20Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637092
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9429079
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6894074
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:38Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637093
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9415961
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6351913
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:38Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637325
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9415546
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6371011
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:39Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637326
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9414303
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6827126
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:39Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637330
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9401103
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6524961
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637333
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9476442
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.7099424
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:39Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637335
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9404222
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6607045
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:39Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637338
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9484175
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.7132544
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:39Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637342
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9415546
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6834282
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:39Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637366
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9466363
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.7057152
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:40Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637378
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9414863
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6831085
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:40Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637380
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9406984
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6663479
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:40Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637391
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9400546
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6537829
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637392
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9416375
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6357707
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:40Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637400
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9410713
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6729998
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:40Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637409
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9411423
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6414436
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637432
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9407097
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6459760
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637434
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9414994
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6342687
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:41Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637442
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9413337
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6788502
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:41Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637487
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9400670
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6531683
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637489
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9443441
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6956301
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:42Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637503
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9402895
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6504988
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637505
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9416375
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6361784
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:42Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637527
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9420932
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6857885
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:43Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2923637531
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9414303
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6818403
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2014-06-19T16:08:43Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 23027777
+quote "
+space  
+word uid
+equals =
+quote "
+word 321862
+quote "
+space  
+word user
+equals =
+quote "
+word DanX
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 2942432383
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9486875
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.7140679
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:19Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 3639327944
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9335331
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6403591
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:17Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 3639327945
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9481132
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6274199
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:17Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 3639327946
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9526917
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6216872
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-07-07T13:46:17Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 32472167
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976956
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9384523
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6353736
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976957
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9389651
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6364306
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976958
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9384837
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6329831
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976959
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9394570
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6295193
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976960
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9389860
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6290802
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976961
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9385779
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6288526
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976962
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9383371
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6278118
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976963
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9382220
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6273077
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976964
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9380231
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6269825
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976965
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9401792
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6297307
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976966
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9407129
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6300072
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976967
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9415607
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6301210
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976968
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9423665
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6301373
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976969
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9436851
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6306414
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976970
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9439886
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6320562
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976971
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9442398
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6326904
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976972
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9448572
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6318935
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976973
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9450142
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6314220
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976974
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9452340
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6303161
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976975
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9454642
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6289501
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976976
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9439991
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6336010
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976977
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9440619
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6349345
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976978
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9445014
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6364143
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976979
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9446898
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6373413
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 4750976980
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9448781
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6381056
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+slash /
+closetag >
+
+opentag <
+word node
+space  
+word id
+equals =
+quote "
+word 5329273549
+quote "
+space  
+word lat
+equals =
+quote "
+word 49.9636189
+quote "
+space  
+word lon
+equals =
+quote "
+word 29.6239300
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2018-01-09T11:49:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 55290746
+quote "
+space  
+word uid
+equals =
+quote "
+word 7446561
+quote "
+space  
+word user
+equals =
+quote "
+word OstapH
+quote "
+slash /
+closetag >
+
+opentag <
+word way
+space  
+word id
+equals =
+quote "
+word 215311394
+quote "
+space  
+word version
+equals =
+quote "
+word 3
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2015-10-29T14:43:11Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 34950609
+quote "
+space  
+word uid
+equals =
+quote "
+word 368942
+quote "
+space  
+word user
+equals =
+quote "
+word KKS
+quote "
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2136178965
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 3639327944
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174933
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174934
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174935
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174936
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174937
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174938
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174939
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174940
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174941
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174942
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174943
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174944
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174945
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174946
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174947
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word highway
+quote "
+space  
+word v
+equals =
+quote "
+word tertiary
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word ref
+quote "
+space  
+word v
+equals =
+quote "
+word О-061723
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word surface
+quote "
+space  
+word v
+equals =
+quote "
+word asphalt
+quote "
+slash /
+closetag >
+
+opentag <
+slash /
+word way
+closetag >
+
+opentag <
+word way
+space  
+word id
+equals =
+quote "
+word 288809495
+quote "
+space  
+word version
+equals =
+quote "
+word 5
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-07-04T13:55:27Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 50035470
+quote "
+space  
+word uid
+equals =
+quote "
+word 5356838
+quote "
+space  
+word user
+equals =
+quote "
+word Artem0724
+quote "
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174947
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637434
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637093
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637392
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637505
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637325
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637409
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637432
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637503
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637330
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637487
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637391
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637335
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637380
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637400
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637063
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637442
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637071
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637531
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637058
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637326
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637378
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637342
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637527
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637092
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637489
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637366
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637333
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637338
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2923637083
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2942432383
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word highway
+quote "
+space  
+word v
+equals =
+quote "
+word tertiary
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word maxwidth
+quote "
+space  
+word v
+equals =
+quote "
+word 2.49
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word ref
+quote "
+space  
+word v
+equals =
+quote "
+word О-061723
+quote "
+slash /
+closetag >
+
+opentag <
+slash /
+word way
+closetag >
+
+opentag <
+word way
+space  
+word id
+equals =
+quote "
+word 359175340
+quote "
+space  
+word version
+equals =
+quote "
+word 2
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2018-01-09T11:49:20Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 55290746
+quote "
+space  
+word uid
+equals =
+quote "
+word 7446561
+quote "
+space  
+word user
+equals =
+quote "
+word OstapH
+quote "
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174947
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174948
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174949
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174950
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174951
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174952
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174953
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174954
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174955
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174956
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174957
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174958
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174959
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174960
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174961
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174962
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174963
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 3639327945
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174964
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174965
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174966
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174967
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174968
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174969
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174970
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 3639327946
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174976
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174983
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174984
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174985
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 5329273549
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174986
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174987
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word highway
+quote "
+space  
+word v
+equals =
+quote "
+word unclassified
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word surface
+quote "
+space  
+word v
+equals =
+quote "
+word asphalt
+quote "
+slash /
+closetag >
+
+opentag <
+slash /
+word way
+closetag >
+
+opentag <
+word way
+space  
+word id
+equals =
+quote "
+word 482254610
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174943
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976956
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976957
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word highway
+quote "
+space  
+word v
+equals =
+quote "
+word unclassified
+quote "
+slash /
+closetag >
+
+opentag <
+slash /
+word way
+closetag >
+
+opentag <
+word way
+space  
+word id
+equals =
+quote "
+word 482254611
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174943
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976958
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976959
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976960
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976961
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976962
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976963
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976964
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word highway
+quote "
+space  
+word v
+equals =
+quote "
+word unclassified
+quote "
+slash /
+closetag >
+
+opentag <
+slash /
+word way
+closetag >
+
+opentag <
+word way
+space  
+word id
+equals =
+quote "
+word 482254612
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976959
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976965
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976966
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976967
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976968
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word highway
+quote "
+space  
+word v
+equals =
+quote "
+word unclassified
+quote "
+slash /
+closetag >
+
+opentag <
+slash /
+word way
+closetag >
+
+opentag <
+word way
+space  
+word id
+equals =
+quote "
+word 482254613
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174953
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976969
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976970
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976971
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976972
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976973
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976974
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976975
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 2247174957
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word highway
+quote "
+space  
+word v
+equals =
+quote "
+word unclassified
+quote "
+slash /
+closetag >
+
+opentag <
+slash /
+word way
+closetag >
+
+opentag <
+word way
+space  
+word id
+equals =
+quote "
+word 482254614
+quote "
+space  
+word version
+equals =
+quote "
+word 1
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-03-23T14:30:08Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 47098472
+quote "
+space  
+word uid
+equals =
+quote "
+word 3737969
+quote "
+space  
+word user
+equals =
+quote "
+word medvedyk
+quote "
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976971
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976976
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976977
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976978
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976979
+quote "
+slash /
+closetag >
+
+opentag <
+word nd
+space  
+word ref
+equals =
+quote "
+word 4750976980
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word highway
+quote "
+space  
+word v
+equals =
+quote "
+word unclassified
+quote "
+slash /
+closetag >
+
+opentag <
+slash /
+word way
+closetag >
+
+opentag <
+word relation
+space  
+word id
+equals =
+quote "
+word 5344080
+quote "
+space  
+word version
+equals =
+quote "
+word 14
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-08-09T17:43:11Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 50979789
+quote "
+space  
+word uid
+equals =
+quote "
+word 6110846
+quote "
+space  
+word user
+equals =
+quote "
+word Poliakoff
+space  
+word Mykhailo
+quote "
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5345132
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5345232
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5345270
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5345298
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5345354
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5344037
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5345468
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5345433
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5346467
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5346608
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5346734
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5346809
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5341948
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5341925
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5350635
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5341923
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5341886
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5341877
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5341849
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5341719
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5341775
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5344716
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5344498
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5344621
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5344686
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5350831
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5351327
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5351465
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5351699
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5351798
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5351883
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5354964
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5355771
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word relation
+quote "
+space  
+word ref
+equals =
+quote "
+word 5355887
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word name
+quote "
+space  
+word v
+equals =
+quote "
+word Обласні
+space  
+word автомобільні
+space  
+word дороги
+space  
+word місцевого
+space  
+word значення
+space  
+word Житомирської
+space  
+word області
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word name:uk
+quote "
+space  
+word v
+equals =
+quote "
+word Обласні
+space  
+word автомобільні
+space  
+word дороги
+space  
+word місцевого
+space  
+word значення
+space  
+word Житомирської
+space  
+word області
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word type
+quote "
+space  
+word v
+equals =
+quote "
+word network
+quote "
+slash /
+closetag >
+
+opentag <
+slash /
+word relation
+closetag >
+
+opentag <
+word relation
+space  
+word id
+equals =
+quote "
+word 5344716
+quote "
+space  
+word version
+equals =
+quote "
+word 4
+quote "
+space  
+word timestamp
+equals =
+quote "
+word 2017-07-04T13:55:27Z
+quote "
+space  
+word changeset
+equals =
+quote "
+word 50035470
+quote "
+space  
+word uid
+equals =
+quote "
+word 5356838
+quote "
+space  
+word user
+equals =
+quote "
+word Artem0724
+quote "
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word way
+quote "
+space  
+word ref
+equals =
+quote "
+word 203610317
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word way
+quote "
+space  
+word ref
+equals =
+quote "
+word 215311394
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word way
+quote "
+space  
+word ref
+equals =
+quote "
+word 288809495
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word way
+quote "
+space  
+word ref
+equals =
+quote "
+word 505067555
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word way
+quote "
+space  
+word ref
+equals =
+quote "
+word 288809497
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word way
+quote "
+space  
+word ref
+equals =
+quote "
+word 288809498
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word member
+space  
+word type
+equals =
+quote "
+word way
+quote "
+space  
+word ref
+equals =
+quote "
+word 359175566
+quote "
+space  
+word role
+equals =
+quote "
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word description
+quote "
+space  
+word v
+equals =
+quote "
+word Парипси
+space  
+word -
+space  
+word Ставище,
+space  
+word через
+space  
+word Саверці
+space  
+word та
+space  
+word Почуйки
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word distance
+quote "
+space  
+word v
+equals =
+quote "
+word 21.1
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word name
+quote "
+space  
+word v
+equals =
+quote "
+word Автошлях
+space  
+word О-061723
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word ref
+quote "
+space  
+word v
+equals =
+quote "
+word О-061723
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word route
+quote "
+space  
+word v
+equals =
+quote "
+word road
+quote "
+slash /
+closetag >
+
+opentag <
+word tag
+space  
+word k
+equals =
+quote "
+word type
+quote "
+space  
+word v
+equals =
+quote "
+word route
+quote "
+slash /
+closetag >
+
+opentag <
+slash /
+word relation
+closetag >
+
+opentag <
+slash /
+word osm
+closetag >
+
