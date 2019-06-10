@@ -135,8 +135,10 @@ istream& operator>>(istream& s, vector<Way>& ways)
 		}
 		else
 		{
-			string k, v;
-			s >> k >> v;
+			string k;
+			char* v = new char[200];
+			s >> k;
+			s.getline(v, 200);
 			ways[ways.size() - 1].paramlist.push_back(pair<string, string>(k, v));
 		}
 	}
@@ -145,9 +147,8 @@ istream& operator>>(istream& s, vector<Way>& ways)
 
 istream& operator>>(istream& s, vector<Relation>& rels)
 {
-	return s;
-	/*
 	string buff;
+	string buffRole;
 	while (!s.eof())
 	{
 		s >> buff;
@@ -160,13 +161,27 @@ istream& operator>>(istream& s, vector<Relation>& rels)
 		}
 		else if (buff == "NODEID")
 		{
-			s >> buff;
-			rels[rels.size() - 1].nodeidlist.push_back(buff);
+			s >> buff >> buffRole;
+			rels[rels.size() - 1].nodeidlist.push_back(make_pair(buff, buffRole));
 		}
 		else if (buff == "WAYID")
 		{
-			s >> buff;
-			rels[rels.size() - 1].
+			s >> buff >> buffRole;
+			rels[rels.size() - 1].wayidlist.push_back(make_pair(buff, buffRole));
 		}
-	}*/
+		else if (buff == "RELID")
+		{
+			s >> buff >> buffRole;
+			rels[rels.size() - 1].relationidlist.push_back(make_pair(buff, buffRole));
+		}
+		else
+		{
+			string k;
+			char* v = new char[200];
+			s >> k;
+			s.getline(v, 200);
+			rels[rels.size() - 1].paramlist.push_back(pair<string, string>(k, v));
+		}
+	}
+	return s;
 }
