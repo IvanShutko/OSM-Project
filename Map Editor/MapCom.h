@@ -31,6 +31,15 @@ public:
 	vector<pair<string, string>> relationidlist;///STRING хранит айди и роль объекта
 };
 
+ostream& operator<<(ostream& s, vector<string>& bounds);
+ostream& operator<<(ostream& s, Node& node);
+ostream& operator<<(ostream& s, Way& way);
+ostream& operator<<(ostream& s, Relation& rel);
+
+ostream& operator<<(ostream& s, vector<Node>& nodes);
+ostream& operator<<(ostream& s, vector<Way>& ways);
+ostream& operator<<(ostream& s, vector<Relation>& rels);
+
 istream& operator>>(istream& s, vector<string>& bounds);
 istream& operator>>(istream& s, vector<Node>& nodes);
 istream& operator>>(istream& s, vector<Way>& ways);
