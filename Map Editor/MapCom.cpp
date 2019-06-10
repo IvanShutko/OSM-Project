@@ -140,6 +140,7 @@ istream& operator>>(istream& s, vector<Way>& ways)
 			ways[ways.size() - 1].paramlist.push_back(pair<string, string>(k, v));
 		}
 	}
+	return s;
 }
 
 istream& operator>>(istream& s, vector<Relation>& rels)
