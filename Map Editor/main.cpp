@@ -33,6 +33,8 @@ protected:
 	Way& findWay(string id);
 	Relation& findRelation(string id);
 
+	bool isChanged;
+
 	void getData();
 	void launch();
 	void processEvents();
@@ -106,6 +108,8 @@ void App::getData()
 	cout << "Ended reading relations" << endl;
 
 	cout << "Ended reading data" << endl;
+
+	isChanged = true;
 }
 
 void App::saveData()
@@ -173,17 +177,49 @@ void App::launch()
 	lat = lat * 100000;
 	lon = lon * 100000;
 	window.create(VideoMode(lon, lat), "Редактор");
+	//window.setVerticalSyncEnabled(true);
+	window.setFramerateLimit(30);
 }
 
 void App::run()
 {
 	getData();
 	launch();
+	/*sf::Clock clock;
+	Time t;
+	int count = 0;
+	float time = 0;
 	while (window.isOpen())
 	{
+		time += clock.restart().asSeconds();
+		if (time >= 1)
+		{
+			time = 0;
+			cout << count << endl;
+			count = 0;
+		}
 		processEvents();
-		update();
+		if(isChanged)
+			update();
 		render();
+		count++;
+	}*/
+	const sf::Time TimePerFrame = sf::seconds(1.f / 60.f);
+	sf::Clock clock;
+	sf::Time timeSinceLastUpdate = sf::Time::Zero;
+	while (window.isOpen())
+	{
+		sf::Time elapsedTime = clock.restart();
+		timeSinceLastUpdate += elapsedTime;
+		while (timeSinceLastUpdate > TimePerFrame)
+		{
+			timeSinceLastUpdate -= TimePerFrame;
+			processEvents();
+			if (isChanged)
+				update();
+			render();
+		}
+		sleep(milliseconds(10));
 	}
 }
 
@@ -244,11 +280,12 @@ void App::update()
 		point.setFillColor(sf::Color::Black);
 		pointarr.push_back(point);
 	}
+	isChanged = false;
 }
 
 void App::render()
 {
-	window.clear(Color::Black);
+	window.clear(Color::White);
 
 	for (int i = 0; i < linearr.size(); i++)
 	{
