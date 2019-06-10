@@ -525,14 +525,17 @@ ostream& operator<<(ostream& s, Relation& rel)
 	}
 	for (int a = 0; a < rel.nodeidlist.size(); a++)
 	{
+		if (rel.nodeidlist[a].second == "") rel.nodeidlist[a].second = "NULL";
 		s << "NODEID " << rel.nodeidlist[a].first << " " << rel.nodeidlist[a].second << endl;
 	}
 	for (int a = 0; a < rel.wayidlist.size(); a++)
 	{
+		if (rel.wayidlist[a].second == "") rel.wayidlist[a].second = "NULL";
 		s << "WAYID " << rel.wayidlist[a].first << " " << rel.wayidlist[a].second << endl;
 	}
 	for (int a = 0; a < rel.relationidlist.size(); a++)
 	{
+		if (rel.relationidlist[a].second == "") rel.relationidlist[a].second = "NULL";
 		s << "RELID " << rel.relationidlist[a].first << " " << rel.relationidlist[a].second << endl;
 	}
 	return s;
