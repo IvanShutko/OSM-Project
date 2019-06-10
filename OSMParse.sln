@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OSMParse", "OSMParse\OSMParse.vcxproj", "{F24EB21C-1C48-47F4-B4CF-053CE8D911F4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Map Editor", "Map Editor\Map Editor.vcxproj", "{EE42FB04-9CA8-4805-B462-4BE5ACEC87FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F24EB21C-1C48-47F4-B4CF-053CE8D911F4}.Release|x64.Build.0 = Release|x64
 		{F24EB21C-1C48-47F4-B4CF-053CE8D911F4}.Release|x86.ActiveCfg = Release|Win32
 		{F24EB21C-1C48-47F4-B4CF-053CE8D911F4}.Release|x86.Build.0 = Release|Win32
+		{EE42FB04-9CA8-4805-B462-4BE5ACEC87FD}.Debug|x64.ActiveCfg = Debug|x64
+		{EE42FB04-9CA8-4805-B462-4BE5ACEC87FD}.Debug|x64.Build.0 = Debug|x64
+		{EE42FB04-9CA8-4805-B462-4BE5ACEC87FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE42FB04-9CA8-4805-B462-4BE5ACEC87FD}.Debug|x86.Build.0 = Debug|Win32
+		{EE42FB04-9CA8-4805-B462-4BE5ACEC87FD}.Release|x64.ActiveCfg = Release|x64
+		{EE42FB04-9CA8-4805-B462-4BE5ACEC87FD}.Release|x64.Build.0 = Release|x64
+		{EE42FB04-9CA8-4805-B462-4BE5ACEC87FD}.Release|x86.ActiveCfg = Release|Win32
+		{EE42FB04-9CA8-4805-B462-4BE5ACEC87FD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
