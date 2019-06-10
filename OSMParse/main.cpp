@@ -476,7 +476,7 @@ ostream& operator<<(ostream& s, vector<string>& bounds)
 
 ostream& operator<<(ostream& s, Node& node)
 {
-	s << "NODE " << node.id << node.lat << node.lon << endl;
+	s << "NODE " << node.id << " " << node.lat << " " << node.lon << endl;
 	for (int a = 0; a < node.paramlist.size(); a++)
 	{
 		s << "PARAM " << node.paramlist[a].first << " " << node.paramlist[a].second << endl;

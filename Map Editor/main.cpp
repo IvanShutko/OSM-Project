@@ -29,6 +29,10 @@ protected:
 	vector<sf::VertexArray> linearr;
 	vector<sf::CircleShape> pointarr;
 
+	Node& findNode(string id);
+	Way& findWay(string id);
+	Relation& findRelation(string id);
+
 	void getData();
 	void launch();
 	void processEvents();
@@ -49,25 +53,59 @@ void App::getData()
 	ifstream source;
 	string adress;
 
-	adress = string(dir) + "bounds.amf";
+	adress = string(dir) + "/bounds.amf";
 	source.open(adress);
+	if (!source)
+	{
+		cout << "An error occured while reading bounds.amf: no file found" << endl
+			<< "This application can work incorrectly after unpausing" << endl;
+		_getch();
+	}
 	source >> boundlist;
 	source.close();
 
-	adress = string(dir) + "node.amf";
+	cout << "Ended reading bounds" << endl;
+
+	adress = string(dir) + "/node.amf";
 	source.open(adress);
+	if (!source)
+	{
+		cout << "An error occured while reading node.amf: no file found" << endl
+			<< "This application can work incorrectly after unpausing" << endl;
+		_getch();
+	}
 	source >> nodelist;
 	source.close();
 
-	adress = string(dir) + "way.amf";
+	cout << "Ended reading nodes" << endl;
+
+	adress = string(dir) + "/way.amf";
 	source.open(adress);
+	if (!source)
+	{
+		cout << "An error occured while reading way.amf: no file found" << endl
+			<< "This application can work incorrectly after unpausing" << endl;
+		_getch();
+	}
 	source >> waylist;
 	source.close();
 
-	adress = string(dir) + "relation.amf";
+	cout << "Ended reading ways" << endl;
+
+	adress = string(dir) + "/relation.amf";
 	source.open(adress);
+	if (!source)
+	{
+		cout << "An error occured while reading relation.amf: no file found" << endl
+			<< "This application can work incorrectly after unpausing" << endl;
+		_getch();
+	}
 	source >> relationlist;
 	source.close();
+
+	cout << "Ended reading relations" << endl;
+
+	cout << "Ended reading data" << endl;
 }
 
 void App::saveData()
@@ -98,6 +136,30 @@ void App::saveData()
 	source.open(adress);
 	source << relationlist;
 	source.close();
+}
+
+Node& App::findNode(string id)
+{
+	for (auto it = nodelist.begin(); it != nodelist.end(); it++)
+	{
+		if (it->id == id) return (*it);
+	}
+}
+
+Way& App::findWay(string id)
+{
+	for (auto it = waylist.begin(); it != waylist.end(); it++)
+	{
+		if (it->id == id) return (*it);
+	}
+}
+
+Relation& App::findRelation(string id)
+{
+	for (auto it = relationlist.begin(); it != relationlist.end(); it++)
+	{
+		if (it->id == id) return (*it);
+	}
 }
 
 void App::launch()
@@ -142,7 +204,7 @@ void App::processEvents()
 
 void App::update()
 {
-	/*double minlat = atof(replacePoint(boundlist[0]).c_str());
+	double minlat = atof(replacePoint(boundlist[0]).c_str());
 	double minlon = atof(replacePoint(boundlist[1]).c_str());
 	double maxlat = atof(replacePoint(boundlist[2]).c_str());
 	double maxlon = atof(replacePoint(boundlist[3]).c_str());
@@ -153,12 +215,12 @@ void App::update()
 	for (int i = 0; i < waylist.size(); i++)
 	{
 		Way currWay = waylist[i];
-		sf::VertexArray line(sf::LineStrip, currWay.nodelist.size());
-		vector<Node> nodes = currWay.nodeidlist;
-		for (int j = 0; j < nodes.size(); j++)
+		sf::VertexArray line(sf::LineStrip, currWay.nodeidlist.size());
+		for (int j = 0; j < currWay.nodeidlist.size(); j++)
 		{
-			double nlat = atof(replacePoint(nodes[j].lat).c_str());
-			double nlon = atof(replacePoint(nodes[j].lon).c_str());
+			Node node = findNode(currWay.nodeidlist[j]);
+			double nlat = atof(replacePoint(node.lat).c_str());
+			double nlon = atof(replacePoint(node.lon).c_str());
 			nlat = -(nlat - maxlat);
 			nlon = nlon - minlon;
 			nlat = nlat * 100000;
@@ -181,18 +243,28 @@ void App::update()
 		point.setPosition(sf::Vector2f(nlon - 3, nlat - 3));
 		point.setFillColor(sf::Color::Black);
 		pointarr.push_back(point);
-	}*/
+	}
 }
 
 void App::render()
 {
 	window.clear(Color::Black);
 
+	for (int i = 0; i < linearr.size(); i++)
+	{
+		window.draw(linearr[i]);
+	}
+	for (int i = 0; i < pointarr.size(); i++)
+	{
+		window.draw(pointarr[i]);
+	}
+
 	window.display();
 }
 
 int main()
 {
+	setlocale(LC_ALL, "Russian");
 	App app;
 	app.run();
 	cout << "Press any key to exit...";

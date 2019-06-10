@@ -11,16 +11,9 @@ ostream& operator<<(ostream& s, vector<string>& bounds)
 
 ostream& operator<<(ostream& s, Node& node)
 {
-	s << "NODE " << node.id << node.lat << node.lon << endl;
+	s << "NODE " << node.id << " " << node.lat << " " << node.lon << endl;
 	for (int a = 0; a < node.paramlist.size(); a++)
 		s << "PARAM " << node.paramlist[a].first << " " << node.paramlist[a].second << endl;
-	return s;
-}
-
-ostream& operator<<(ostream& s, vector<Node>& nodes)
-{
-	for (int a = 0; a < nodes.size(); a++)
-		s << nodes[a];
 	return s;
 }
 
@@ -33,13 +26,6 @@ ostream& operator<<(ostream& s, Way& way)
 	for (int a = 0; a < way.nodeidlist.size(); a++)
 		s << "NODEID " << way.nodeidlist[a] << endl;
 
-	return s;
-}
-
-ostream& operator<<(ostream& s, vector<Way>& ways)
-{
-	for (int a = 0; a < ways.size(); a++)
-		s << ways[a];
 	return s;
 }
 
@@ -65,6 +51,20 @@ ostream& operator<<(ostream& s, Relation& rel)
 		if (rel.relationidlist[a].second == "") rel.relationidlist[a].second = "NULL";
 		s << "RELID " << rel.relationidlist[a].first << " " << rel.relationidlist[a].second << endl;
 	}
+	return s;
+}
+
+ostream& operator<<(ostream& s, vector<Node>& nodes)
+{
+	for (int a = 0; a < nodes.size(); a++)
+		s << nodes[a];
+	return s;
+}
+
+ostream& operator<<(ostream& s, vector<Way>& ways)
+{
+	for (int a = 0; a < ways.size(); a++)
+		s << ways[a];
 	return s;
 }
 
@@ -103,13 +103,14 @@ istream& operator>>(istream& s, vector<Node>& nodes)
 			temp.lon = buff;
 			nodes.push_back(temp);
 		}
-		else
+		else if(buff == "PARAM")
 		{
 			string k;
 			char* v = new char[200];
 			s >> k;
 			s.getline(v, 200);
-			nodes[nodes.size() - 1].paramlist.push_back(pair<string, string>(k, v));
+			string val = v;
+			nodes[nodes.size() - 1].paramlist.push_back(pair<string, string>(k, val));
 		}
 	}
 	return s;
