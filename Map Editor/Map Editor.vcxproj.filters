@@ -21,9 +21,15 @@
     <ClCompile Include="MapCom.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="DrawableEntities.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MapCom.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawableEntities.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

@@ -185,25 +185,6 @@ void App::run()
 {
 	getData();
 	launch();
-	/*sf::Clock clock;
-	Time t;
-	int count = 0;
-	float time = 0;
-	while (window.isOpen())
-	{
-		time += clock.restart().asSeconds();
-		if (time >= 1)
-		{
-			time = 0;
-			cout << count << endl;
-			count = 0;
-		}
-		processEvents();
-		if(isChanged)
-			update();
-		render();
-		count++;
-	}*/
 	const sf::Time TimePerFrame = sf::seconds(1.f / 60.f);
 	sf::Clock clock;
 	sf::Time timeSinceLastUpdate = sf::Time::Zero;
@@ -219,7 +200,7 @@ void App::run()
 				update();
 			render();
 		}
-		sleep(milliseconds(10));
+		sleep(milliseconds(5));
 	}
 }
 

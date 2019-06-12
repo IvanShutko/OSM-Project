@@ -123,10 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DrawableEntities.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MapCom.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DrawableEntities.h" />
     <ClInclude Include="MapCom.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
